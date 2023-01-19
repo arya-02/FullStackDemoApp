@@ -1,0 +1,10 @@
+package com.backend.rest.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.backend.rest.model.User;
+
+public interface UserRepo extends JpaRepository<User,Long> {
+	
+	
+}

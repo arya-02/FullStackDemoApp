@@ -1,0 +1,5 @@
+package com.backend.rest.model;
+
+public class User {
+
+}
